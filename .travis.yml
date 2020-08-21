@@ -1,11 +1,2 @@
-{
-  "language": ".net",
-  "os": [
-    "Windows"
-  ],
-  "dist": "xenial",
-  "rvm": [
-    "2.2",
-    "jruby"
-  ]
-}
+language: csharp
+solution: FoundModel.sln
