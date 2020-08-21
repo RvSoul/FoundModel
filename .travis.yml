@@ -1,7 +1,7 @@
 {
   "language": "ruby",
   "os": [
-    "linux"
+    "Windows"
   ],
   "dist": "xenial",
   "rvm": [
