@@ -1,0 +1,14 @@
+System.IO.StreamWriter public class Jianli
+ {
+         public uniqueidentifier Id { get; set; }
+         public int Code { get; set; }
+         public uniqueidentifier XianluId { get; set; }
+         public uniqueidentifier BiaoduanId { get; set; }
+         public datetime ShenheTime { get; set; }
+         public nvarchar PayDuixiang { get; set; }
+         public decimal ShendingMoney { get; set; }
+         public nvarchar Yongtu { get; set; }
+         public nvarchar RegisterPeople { get; set; }
+         public nvarchar ShenheYijian { get; set; }
+         public nvarchar ZShenheYijian { get; set; }
+}

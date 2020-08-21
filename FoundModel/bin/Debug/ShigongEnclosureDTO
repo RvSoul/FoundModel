@@ -1,0 +1,7 @@
+System.IO.StreamWriter public class ShigongEnclosure
+ {
+         public uniqueidentifier Id { get; set; }
+         public uniqueidentifier ShigongId { get; set; }
+         public nvarchar EnclosureName { get; set; }
+         public nvarchar EnclosureUrl { get; set; }
+}

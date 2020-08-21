@@ -1,0 +1,7 @@
+System.IO.StreamWriter public class JianliEnclosure
+ {
+         public uniqueidentifier Id { get; set; }
+         public uniqueidentifier JianliId { get; set; }
+         public nvarchar EnclosureName { get; set; }
+         public nvarchar EnclosureUrl { get; set; }
+}

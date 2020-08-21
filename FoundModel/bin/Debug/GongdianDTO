@@ -1,0 +1,6 @@
+System.IO.StreamWriter public class Gongdian
+ {
+         public uniqueidentifier Id { get; set; }
+         public uniqueidentifier BiaoduanID { get; set; }
+         public nvarchar GongdianName { get; set; }
+}

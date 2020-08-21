@@ -1,0 +1,11 @@
+System.IO.StreamWriter public class Jianshe
+ {
+         public uniqueidentifier Id { get; set; }
+         public int Code { get; set; }
+         public uniqueidentifier BiaoduanId { get; set; }
+         public uniqueidentifier GongdianId { get; set; }
+         public int QujiMonth { get; set; }
+         public decimal Money { get; set; }
+         public nvarchar RegisterPeople { get; set; }
+         public datetime RegisterTime { get; set; }
+}

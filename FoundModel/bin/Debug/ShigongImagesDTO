@@ -1,0 +1,6 @@
+System.IO.StreamWriter public class ShigongImages
+ {
+         public uniqueidentifier Id { get; set; }
+         public uniqueidentifier ShigongId { get; set; }
+         public nvarchar ImgUrl { get; set; }
+}

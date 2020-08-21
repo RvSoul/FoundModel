@@ -1,0 +1,6 @@
+System.IO.StreamWriter public class Biaoduan
+ {
+         public uniqueidentifier Id { get; set; }
+         public uniqueidentifier XianluId { get; set; }
+         public nvarchar BiaoduanName { get; set; }
+}

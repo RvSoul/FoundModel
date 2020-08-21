@@ -1,0 +1,14 @@
+System.IO.StreamWriter public class Shigong
+ {
+         public uniqueidentifier Id { get; set; }
+         public int Code { get; set; }
+         public uniqueidentifier BiaoduanId { get; set; }
+         public datetime ShiyongTime { get; set; }
+         public datetime ShiyongTime2 { get; set; }
+         public nvarchar PayDuixiang { get; set; }
+         public nvarchar Yongtu { get; set; }
+         public decimal Money { get; set; }
+         public nvarchar RegisterPeople { get; set; }
+         public nvarchar Remarks { get; set; }
+         public nvarchar ShenhePeople { get; set; }
+}
