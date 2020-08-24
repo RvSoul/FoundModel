@@ -1,16 +1,4 @@
-{
-  "language": "csharp",
-  "os": [
-    "linux"
-  ],
-  "dist": "xenial",
-  "solution": [
-    "FoundModel.sln"
-  ],
-  "mono": [
-    "3.10.0"
-  ],
-  "dotnet": [
-    "4.5"
-  ]
-}
+language: csharp
+solution: FoundModel.sln
+mono: 3.10.0
+dotnet: 4.5
